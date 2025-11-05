@@ -1,0 +1,9 @@
+[
+  {"name": "Red Nike Shoes", "category": "shoes", "price": 1800, "rating": 4.5},
+  {"name": "Adidas Sneakers", "category": "shoes", "price": 2500, "rating": 4.3},
+  {"name": "HP Laptop", "category": "laptop", "price": 42000, "rating": 4.6},
+  {"name": "Dell Laptop", "category": "laptop", "price": 38000, "rating": 4.4},
+  {"name": "iPhone 13", "category": "phone", "price": 60000, "rating": 4.8},
+  {"name": "Redmi Note 12", "category": "phone", "price": 16000, "rating": 4.2},
+  {"name": "Samsung Galaxy Watch", "category": "watch", "price": 12000, "rating": 4.4}
+]

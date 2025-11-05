@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Software Engineer",
+    "skills": ["python", "machine learning", "sql", "data structures"],
+    "location": "Bangalore"
+  },
+  {
+    "title": "Data Analyst",
+    "skills": ["excel", "python", "pandas", "powerbi"],
+    "location": "Hyderabad"
+  },
+  {
+    "title": "Web Developer",
+    "skills": ["html", "css", "javascript", "react"],
+    "location": "Remote"
+  }
+]
